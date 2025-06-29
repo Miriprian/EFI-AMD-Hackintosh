@@ -21,8 +21,4 @@
 
 • Audio : ALC1220 Codec
 
-• Bootloader : OpenCore 1.0.4
-
-• OS : macOS Sequoia 15.4.1
-
-• Installer : Olarila
+• Bootloader : OpenCore 1.0.5
