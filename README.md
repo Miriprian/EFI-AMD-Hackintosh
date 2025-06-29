@@ -1,4 +1,4 @@
-# EFI AMD Hackintosh
+# EFI B550 Ryzen 7 5700X AMD Hackintosh
 **DETAILS**
 
 • Motherboard : AMD B550
