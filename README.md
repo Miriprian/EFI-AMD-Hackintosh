@@ -20,5 +20,3 @@
 • Ethernet : Realtek RTL8125BG 2.5G
 
 • Audio : ALC1220 Codec
-
-• Bootloader : OpenCore 1.0.5
